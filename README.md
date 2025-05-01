@@ -9,8 +9,10 @@ Order Summary: Displays a detailed bill with order ID, customer name, date, and 
 Clear Functionality: Resets all fields to their default state.
 
 Team Members:
-Paromita Chanda
-Shanjida Afrin
-Ayesa Begum
+Paromita Chanda <br>
+Shanjida Afrin <br>
+Ayesa Begum <br>
 Labiba Alam
+
+*******Output images are added in the Report with output pics.pdf file*******
 
